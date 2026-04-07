@@ -67,4 +67,4 @@ Each LED is wired in series with a 220Ω resistor to ground. Buttons use Arduino
 
 ## Demo
 
-![Simon Says Demo](demo.mp4)
+![Watch the demo](demo/demo.mp4)
